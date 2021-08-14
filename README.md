@@ -6,13 +6,17 @@ I am Mercy Damilare from Nigeria, a self-taught Frontend Developer and WordPress
 
 ### Skills
 
-- JavaScript 
-- Node JS
-- Express JS
-- CSS
-- HTML
-- Bootstrap
-- SASS
+- Frontend 
+  - JavaScript
+  - CSS
+  - HTML
+  - Bootstrap
+  - SASS
+- Backend 
+  - Node JS
+  - Express JS
+  - API [ Currently Learning ]
+
 
 # I'm a Frontend Developer 
 
@@ -24,9 +28,6 @@ I am Mercy Damilare from Nigeria, a self-taught Frontend Developer and WordPress
 - 😄 Pronouns: He/his 
 - ⚡ Fun fact: I find CSS attractive and easy 
 
+# Links 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mercyharbo)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/codewithmercy/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/codewithmercy/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/codewithmercy)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://codewithmercy.netlify.app/)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/mercyharbo)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/codewithmercy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/codewithmercy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/codewithmercy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://codewithmercy.netlify.app/)   
