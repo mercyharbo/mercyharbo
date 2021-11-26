@@ -1,4 +1,4 @@
-![CODE WITH MERCY (1)](https://user-images.githubusercontent.com/64808015/129446513-4a33a672-42ed-4907-be8b-1e3b8b26c4b0.png)
+![Purple Minimalist Brush Personal LinkedIn Banner](https://user-images.githubusercontent.com/64808015/143513444-5fa8455b-deac-4bfe-bc30-ef47e1b36660.png)
 
 # Hi there 👋, I'm Code With Mercy
 
