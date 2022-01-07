@@ -14,7 +14,7 @@ I'm an introvert that likes coding, soccer, music, dogs and cats, learning. I do
 
 - JavaScript/React 
 - Node/Express js 
-- CSS 3/SCSS
+- CSS 3/SASS
 - Bootstrap
 - HTML 5
 - WordPress
