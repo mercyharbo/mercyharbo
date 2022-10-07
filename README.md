@@ -1,30 +1,22 @@
-![Purple Minimalist Brush Personal LinkedIn Banner](https://user-images.githubusercontent.com/64808015/143513444-5fa8455b-deac-4bfe-bc30-ef47e1b36660.png)
+# 💫 About Me:
+🔭 I’m currently working on my growth, development and coding skills,<br>👯 I’m looking to collaborate on React, redux toolkit, JS, tailwindCSS, sass, CSS...<br>🤝 I’m looking for help with mentoring,<br>🌱 I’m currently learning more about software engineering,<br>💬 Ask me about anything coding,<br>⚡ Fun fact is that I learn faster with good mentoring.
 
-# Hi there 👋, I'm Code With Mercy
 
-Hello, I am Mercy from Osun, Nigeria, a Software Developer & Designer passionate about creating amazing stuff for the internet. My interest started in 2018 when I met someone studying computer science at University like me that put me through how and where to start learning to code, after doing my won research I find out about W3school, udemy, and YouTube which helped my journey as I was just getting to know about HTML, CSS, and JavaScript for the first time then.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mercyharbo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithmercy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/codewithmercy1) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codewithmercy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codewithmercy) 
 
-I'm skilled in JavaScript, CSS, SCSS, React js, Node/express js, Git & Github, and I'm a team person, working together with people has helped me develop because I tend to learn and challenge myself to do more.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mercyharbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mercyharbo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyharbo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Over the years, I have learned to pick different projects beyond me just to improve my coding skill, which has really helped me. I pick projects from Frontendmentor, Dribble and more.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mercyharbo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I'm an introvert that likes coding, soccer, music, dogs and cats, learning. I don't give up on anything no matter the result I am getting, always want results and never give up until I achieve that. I've stayed up all night debugging just because I don't want to leave the bug unfixed 😂
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# Skills
-
-- JavaScript/React 
-- Node/Express js 
-- CSS 3/SASS
-- Bootstrap
-- HTML 5
-- WordPress
-
-I AM CURRENTLY SEEKING FOR JOB OR INTERNSHIP TO GAIN MORE EXPERIENCE IN THIS, PLEASE CONTACT ME OR RECOMMEND ME FOR ONE OF THIS, I AM PASSIONATE AND READ TO LEARN IN ORDER TO IMPROVE IN MY CODING SKILL AND EVERY OTHER PLACE I NEED TO IMPROVE.
-
-# Contact Details
-
-- Email: damilare791@gmail.com
-- Mobile Number: +2349078472701
-- Linkedin: https://www.linkedin.com/in/codewithmercy/
-- Twitter: www.twitter.com/codewithmercy
-- Instagram: www.instagram.com/codewithmercy
+---
+[![](https://visitcount.itsvg.in/api?id=mercyharbo&icon=0&color=0)](https://visitcount.itsvg.in)
