@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-I'm a Frontend & App Developer from Nigeria with 2 years of experience in HTML, CSS, TailwindCSS, Sass, JavaScript, NextJS, React Native and ReactJS. I'm passionate about creating beautiful, user-friendly web experiences and have a knack for problem-solving. I'm currently working with a startup, where I'm responsible for developing and maintaining the front end of their web applications. I'm always looking for ways to improve my skills and stay up-to-date with the latest languages out there.
+I am a Frontend Developer with 2+ years of experience in developing and maintaining web applications. I am proficient in React, JavaScript, Tailwind, Next.js, CSS, HTML, and Redux Toolkit. I am also a team player and I am always willing to learn new things. I am passionate about creating user-friendly and visually appealing web applications.
+
+I am currently looking for a Frontend Developer position in a fast-paced and innovative environment. I am confident that I can make a significant contribution to your team.
 
 
 ## 🌐 Socials:
