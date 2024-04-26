@@ -1,13 +1,10 @@
 # 💫 About Me:
 
-I am a seasoned front-end developer with a rich background in crafting and nurturing web applications. My journey is marked by mastery of an array of cutting-edge technologies, including React, JavaScript, Tailwind, Next.js, CSS, HTML, and Redux Toolkit. My skills are not just a reflection of my experience; they are a testament to my unwavering commitment to staying at the forefront of web development.
+I am a proficient front-end developer with over two years of experience in creating modern and responsive web applications. My skillset encompasses a robust knowledge of several programming languages and tools, including JavaScript, React, Tailwind, Next.js, Redux Toolkit, Sass, and CSS. In addition, I demonstrate proficiency in the use of various web development tools and frameworks, such as Webpack, Babel, ESLint, and React Testing Library. My passion lies in designing user-friendly and accessible interfaces that cater to the needs and expectations of both clients and users.
 
-Collaboration is my second nature, and my thirst for knowledge is unquenchable. I thrive in dynamic, forward-thinking environments, where innovation is the driving force. My true passion lies in the art of fashioning user-friendly, visually captivating web applications that resonate with users.
+I am consistently driven by the desire to acquire knowledge of new technologies and enhance my skills. My team-oriented approach to work and ability to collaborate with other developers, designers, and stakeholders are qualities that I hold in high regard. Furthermore, I possess the capability to work independently, and efficiently manage my time and tasks.
 
-At this juncture, I am fervently seeking a Frontend Developer role that aligns with my aspirations in a high-octane, forward-looking setting. I hold the firm belief that I can bring a transformative influence to your team, elevating your projects to new heights. Let's embark on this exciting journey together.
-
-
-🔭 I’m currently working on enhancing my skills in React, GSAP, TypeScript, and designs with Canva for now but I have bigger dreams of probably maybe Adobe or Figma, and exploring Next.js 14.<br>👯 I’m looking to collaborate on open-source projects aimed at improving web accessibility.<br>🤝 I’m looking for help with understanding the intricacies of TypeScript before crossing to react native or Flutter for mobile.<br>🌱 I’m currently learning TypeScript and how to integrate it with a React application.<br>💬 Ask me about JavaScript, React, CSS, and anything related to front-end development.<br>⚡ Fun fact: When I'm not coding, I am listening to music or watching anime ( just started though )<br>
+My proficiencies include excellent communication and problem-solving skills, as well as a commitment to delivering high-quality and maintainable code. I am currently seeking a challenging and fulfilling opportunity to apply my expertise and contribute to the success of your organization.
 
 
 ## 🌐 Socials:
