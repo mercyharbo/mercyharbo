@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Mercy!
+# 👋 Hi there, I'm Damilare!
 
-I’m a passionate **Frontend Developer** with 2+ years of experience building modern, responsive, and accessible web applications. I specialise in crafting seamless user experiences using technologies like **React**, **Next.js**, **Tailwind CSS**, **JavaScript**, **TypeScript**, and **Redux Toolkit**.
+I’m a passionate **Frontend Developer** with 3+ years of experience building modern, responsive, and accessible web applications. I specialise in crafting seamless user experiences using technologies like **React**, **Next.js**, **Tailwind CSS**, **JavaScript**, **TypeScript**, and **Redux Toolkit**.
 
 ---
 
