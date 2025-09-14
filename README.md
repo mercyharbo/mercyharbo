@@ -1,50 +1,46 @@
-# 👋 Hi there, I'm Damilare!
+# Damilare | Frontend Developer
 
-I’m a passionate **Frontend Developer** with 3+ years of experience building modern, responsive, and accessible web applications. I specialise in crafting seamless user experiences using technologies like **React**, **Next.js**, **Tailwind CSS**, **JavaScript**, **TypeScript**, and **Redux Toolkit**.
-
----
-
-## 💡 About Me
-
-As a developer, I focus on building intuitive and user-centred interfaces that not only look great but also perform exceptionally. I bring a deep understanding of:
-
-* Component-based architecture using **React** and **Next.js**
-* Utility-first styling with **Tailwind CSS** and custom styles using **SASS/CSS3**
-* State management via **Redux Toolkit** and **React Context**
-* Building, testing, and deploying projects with tools like **Vercel**, **Netlify**, **Webpack**, **ESLint**, and **React Testing Library**
-
-I thrive in collaborative environments, and I’m always eager to work with designers, backend engineers, and stakeholders to turn ideas into impactful digital experiences.
-
-Currently, I'm **open to new opportunities** — whether it's a remote team, freelance gig, or a full-time role where I can grow and contribute meaningfully.
+### Building intuitive, high-performance web experiences that users love.
 
 ---
 
-## 🚀 Tech Stack
+I'm a Frontend Developer who specialises in translating complex ideas into elegant, accessible, and responsive web applications. My passion lies in the entire development lifecycle—from collaborating on initial concepts and designs to deploying robust, pixel-perfect products.
 
-**Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat\&logo=react\&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat\&logo=next.js\&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat\&logo=redux\&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)
+The best user interfaces are born from a deep understanding of user needs and a commitment to clean, scalable code. I thrive in collaborative environments where I can work alongside designers, backend engineers, and product managers to create meaningful and impactful digital solutions.
 
-**Styling & UI**
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat\&logo=tailwind-css\&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat\&logo=SASS\&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat\&logo=bootstrap\&logoColor=white) ![Ant Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat\&logo=ant-design\&logoColor=white)
+-   **🔭 I’m currently building:** Actively honing my skills by developing full-stack projects and exploring new frontend technologies.
+-   **🌱 I’m passionate about:** Performance optimisation, state management strategies, and creating truly accessible digital experiences for all users.
+-   **💬 Let's connect if:** You're looking for a dedicated developer who is adaptable, a quick learner, and ready to contribute to a forward-thinking team.
 
-**Tools & Platforms**
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat\&logo=vercel\&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat\&logo=netlify\&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/Git-fc6d26?style=flat\&logo=git\&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat\&logo=notion\&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat\&logo=jira\&logoColor=white)
+---
 
-**CMS & Design**
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat\&logo=WordPress\&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat\&logo=Canva\&logoColor=white)
+## 🛠️ My Tech Stack & Expertise
 
+While I'm proficient with the tools below, I am a firm believer in using the right technology for the job and am always excited to learn and adapt.
+
+| Category              | Technologies                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| **Core Languages**    | JavaScript (ES6+), TypeScript                                                         |
+| **Frameworks/Libraries** | React, Next.js                                                                        |
+| **State Management**  | Zustand, Redux Toolkit, React Context                                                 |
+| **Styling**           | Tailwind CSS, SASS/CSS3, CSS-in-JS                                                    |
+| **Testing & Tooling** | React Testing Library, ESLint, Webpack, Vercel, Netlify                               |
+| **Collaboration**     | Git, GitHub, Figma, Jira                                                              |
+
+---
+
+## 📫 Get in Touch
+
+I'm currently **open to new opportunities** and would love to hear about your project or team. Feel free to reach out!
+
+-   **Email:** `your-email@example.com`
+-   **LinkedIn:** `linkedin.com/in/your-profile`
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mercyharbo\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=false)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mercyharbo\&theme=radical\&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyharbo\&theme=radical\&hide_border=false\&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mercyharbo\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
 
 ---
 
